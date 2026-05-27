@@ -13,6 +13,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 ## 快速结论
 
+<img src="./dh.png" />
+
 | 目标 | 优先看 | 原因 |
 |---|---|---|
 | 本地图片生成工作流 | ComfyUI、Stable Diffusion WebUI、Diffusers | 生态成熟，可扩展性强 |
@@ -27,8 +29,6 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 | Agent 编程工作流 | Codex、OpenHands、deer-flow、OpenClaw、AutoGen、LangGraph | 覆盖 CLI、软件工程、多 Agent 编排 |
 | Agent 技能资产 | anthropics/skills、superpowers、agent-skills、MiniMax-AI/skills | 适合沉淀工作流和提示资产 |
 | 浏览器/桌面自动化 | agent-s、TuriX-CUA、browser-use、Playwright、Peekaboo | 要做权限隔离、日志审计和账号风控 |
-
-<img src="./dh.png" />
 
 ## 一、图片
 
