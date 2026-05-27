@@ -750,32 +750,83 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 这些链接不是可直接评估的单一 GitHub 仓库，建议只作为产品或组织入口，再按具体仓库、价格、许可和数据合规单独确认。
 
-| 推荐 | 链接 | 简介 | 状态 | 判断 |
-|---:|---|---|---|---|
-| 1 | [Marvis](https://marvis.qq.com/) | 腾讯系统级助手 | 官网 2026-05 可下载 | 闭源，本地/云端模型和桌面权限需确认 |
-| 2 | [CodeBuddy WorkBuddy](https://www.codebuddy.cn/work/) | 腾讯办公 Agent | 定价页 2026-05-15 后生效 | 商业产品，个人专业版 58 元/月，企业版 198/316 元/月起 |
-| 3 | [QoderWake](https://qoder.com/qoderwake) | 24 小时数字员工 | 官网可访问；未见仓库 | 闭源云产品，需信任平台 |
-| 4 | [Helio](https://www.helio.im/) | AI 原生团队工作区 | 官网可访问 | 闭源，团队协作平台 |
-| 5 | [Clockless AI](https://clockless.ai/) | 客户关系 AI 门户 | 官网可访问 | 闭源 SaaS，需销售确认 |
-| 6 | [ClawinLink](https://claw.baolieguoshi.com/) | Agent 消息网关 | 官网内测 | 微信/QQ 通道，合规和接入门槛高 |
-| 7 | [ghuntley](https://github.com/ghuntley) | Agent 方法论作者 | 个人主页 | 不是单仓库，适合看其教程和代表仓库 |
-| 8 | [TauricResearch](https://github.com/TauricResearch) | 金融 Agent 组织 | GitHub 组织主页 | 应按组织内具体仓库评估 |
-| 9 | [Binance](https://github.com/binance) | Binance 组织 | GitHub 组织主页 | 应按具体 SDK/接口仓库评估 |
-| 10 | [OpenToonz 官网](https://opentoonz.github.io/e/index.html) | 开源二维动画软件 | 官网入口 | GitHub 仓库应看 opentoonz/opentoonz |
-| 11 | [yikeai](https://www.yikeai.com/#/home) | 商业 AI 视频平台 | 官网入口 | 非仓库，价格和素材授权需确认 |
-| 12 | [Wind 金融技能页](https://aifinmarket.wind.com.cn/skill.md) | Wind 金融技能页 | 页面入口 | 商业数据/服务属性需确认 |
-| 13 | [MCPMarket UI Prompt Generator](https://mcpmarket.com/zh/tools/skills/ui-prompt-generator) | UI 提示工具页 | 页面入口 | 非仓库，无法按开源许可判断 |
-| 14 | [腾讯 ArDot](https://ardot.tencent.com/) | 腾讯设计平台 | 官网入口 | 非仓库，商业和平台绑定需确认 |
+**1.** [Marvis](https://marvis.qq.com/) — 腾讯系统级助手
+`官网 2026-05 可下载`
+> 闭源，本地/云端模型和桌面权限需确认
+
+**2.** [CodeBuddy WorkBuddy](https://www.codebuddy.cn/work/) — 腾讯办公 Agent
+`定价页 2026-05-15 后生效`
+> 商业产品，个人专业版 58 元/月，企业版 198/316 元/月起
+
+**3.** [QoderWake](https://qoder.com/qoderwake) — 24 小时数字员工
+`官网可访问；未见仓库`
+> 闭源云产品，需信任平台
+
+**4.** [Helio](https://www.helio.im/) — AI 原生团队工作区
+`官网可访问`
+> 闭源，团队协作平台
+
+**5.** [Clockless AI](https://clockless.ai/) — 客户关系 AI 门户
+`官网可访问`
+> 闭源 SaaS，需销售确认
+
+**6.** [ClawinLink](https://claw.baolieguoshi.com/) — Agent 消息网关
+`官网内测`
+> 微信/QQ 通道，合规和接入门槛高
+
+**7.** [ghuntley](https://github.com/ghuntley) — Agent 方法论作者
+`个人主页`
+> 不是单仓库，适合看其教程和代表仓库
+
+**8.** [TauricResearch](https://github.com/TauricResearch) — 金融 Agent 组织
+`GitHub 组织主页`
+> 应按组织内具体仓库评估
+
+**9.** [Binance](https://github.com/binance) — Binance 组织
+`GitHub 组织主页`
+> 应按具体 SDK/接口仓库评估
+
+**10.** [OpenToonz 官网](https://opentoonz.github.io/e/index.html) — 开源二维动画软件
+`官网入口`
+> GitHub 仓库应看 opentoonz/opentoonz
+
+**11.** [yikeai](https://www.yikeai.com/#/home) — 商业 AI 视频平台
+`官网入口`
+> 非仓库，价格和素材授权需确认
+
+**12.** [Wind 金融技能页](https://aifinmarket.wind.com.cn/skill.md) — Wind 金融技能页
+`页面入口`
+> 商业数据/服务属性需确认
+
+**13.** [MCPMarket UI Prompt Generator](https://mcpmarket.com/zh/tools/skills/ui-prompt-generator) — UI 提示工具页
+`页面入口`
+> 非仓库，无法按开源许可判断
+
+**14.** [腾讯 ArDot](https://ardot.tencent.com/) — 腾讯设计平台
+`官网入口`
+> 非仓库，商业和平台绑定需确认
 
 ## 十、需重点复核的条目
 
-| 条目 | 原因 | 建议 |
-|---|---|---|
-| `NVIDIA/DanceDiffusion` | GitHub API 返回 404 | 可能仓库名写错、未公开或已迁移，先不要纳入推荐 |
-| `YadiraF/ClothFlow` | GitHub API 返回 404 | 只查到论文/项目页线索，需重新确认公开仓库 |
-| `NOASSERTION` / 未声明许可证条目 | 无法确认商用复用边界 | 商业项目中不要直接复制代码，先查 LICENSE、模型权重和依赖许可证 |
-| 换脸、人脸识别、桌面控制、浏览器控制、微信/QQ 通道 | 涉及隐私、账号、平台规则和误操作风险 | 必须做权限隔离、日志审计、人工确认和合规边界 |
-| 金融交易 Agent / 交易所 SDK | 容易被误用为实盘自动交易 | 先做研究、回测、模拟盘；实盘需要风控和合规审查 |
+**`NVIDIA/DanceDiffusion`**
+`GitHub API 返回 404`
+> 可能仓库名写错、未公开或已迁移，先不要纳入推荐
+
+**`YadiraF/ClothFlow`**
+`GitHub API 返回 404`
+> 只查到论文/项目页线索，需重新确认公开仓库
+
+**`NOASSERTION` / 未声明许可证条目**
+`无法确认商用复用边界`
+> 商业项目中不要直接复制代码，先查 LICENSE、模型权重和依赖许可证
+
+**换脸、人脸识别、桌面控制、浏览器控制、微信/QQ 通道**
+`涉及隐私、账号、平台规则和误操作风险`
+> 必须做权限隔离、日志审计、人工确认和合规边界
+
+**金融交易 Agent / 交易所 SDK**
+`容易被误用为实盘自动交易`
+> 先做研究、回测、模拟盘；实盘需要风控和合规审查
 
 ## 联系方式
 
