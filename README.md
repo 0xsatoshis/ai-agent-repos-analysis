@@ -28,6 +28,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 | Agent 技能资产 | anthropics/skills、superpowers、agent-skills、MiniMax-AI/skills | 适合沉淀工作流和提示资产 |
 | 浏览器/桌面自动化 | agent-s、TuriX-CUA、browser-use、Playwright、Peekaboo | 要做权限隔离、日志审计和账号风控 |
 
+<img src="./dh.png" />
+
 ## 一、图片
 
 | 推荐 | 项目 | 简介 | 最后更新 | 许可/付费 | 外部依赖 | 推荐理由 / 风险 |
