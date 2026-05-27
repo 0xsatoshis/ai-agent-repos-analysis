@@ -1,4 +1,4 @@
-# GitHub AI / Agent 仓库分类推荐清单
+# 165个 GitHub AI / Agent 仓库分类推荐清单
 
 GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别、视频自动化、金融研究、Agent 编程、浏览器自动化等方向。
 
