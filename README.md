@@ -30,6 +30,18 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 | Agent 技能资产 | anthropics/skills、superpowers、agent-skills、MiniMax-AI/skills | 适合沉淀工作流和提示资产 |
 | 浏览器/桌面自动化 | agent-s、TuriX-CUA、browser-use、Playwright、Peekaboo | 要做权限隔离、日志审计和账号风控 |
 
+### 排序依据
+
+1. **工程可用性** — 能否直接用于生产/研究工作流，开箱即用的排前面
+2. **生态成熟度** — 插件、文档、社区活跃度、周边工具链是否完善
+3. **活跃度** — 最后更新时间，维护频率
+4. **许可证清晰度** — MIT/Apache 等清晰许可优先，NOASSERTION/未声明的靠后
+5. **落地成本和风险** — 部署复杂度、合规风险、外部依赖多少
+
+排序逻辑：**可直接落地的工具 > 需要二次开发的框架 > 素材集/提示词集/方法论资源**
+
+---
+
 ## 一、图片
 
 **1.** **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — 节点式生成工作流
