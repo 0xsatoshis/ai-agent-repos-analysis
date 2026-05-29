@@ -36,8 +36,21 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 | Agent 技能资产 | anthropics/skills、superpowers、agent-skills、MiniMax-AI/skills | 适合沉淀工作流和提示资产 |
 | 浏览器/桌面自动化 | agent-s、TuriX-CUA、browser-use、Playwright、Peekaboo | 要做权限隔离、日志审计和账号风控 |
 
-<details>
-<summary><h2>一、图片（18 个）</h2></summary>
+## 📑 目录
+
+- [一、图片（18 个）](#一图片)
+- [二、语音（13 个）](#二语音)
+- [三、视频（33 个）](#三视频)
+- [四、自媒体（21 个）](#四自媒体)
+- [五、金融（23 个）](#五金融)
+- [六、设计（15 个）](#六设计)
+- [七、编程 & Agent（49 个）](#七编程--agent)
+- [八、浏览器 / 桌面自动化 / 工具底座（24 个）](#八浏览器--桌面自动化--工具底座)
+- [九、官网 / 产品页 / 非单仓库入口（14 个）](#九官网--产品页--非单仓库入口)
+- [十、注意事项](#十注意事项)
+- [联系方式](#联系方式)
+
+## 一、图片
 
 **1.** **[Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — 节点式生成工作流
 `Stars: 114.6k` `GPL-3.0；代码免费开源` `更新: 2026-05-26`
@@ -129,10 +142,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 宝玉 · 技能资产可参考；复用需确认授权
 
-</details>
 
-<details>
-<summary><h2>二、语音（13 个）</h2></summary>
+## 二、语音
 
 **1.** **[openai/whisper](https://github.com/openai/whisper)** — 通用语音识别
 `Stars: 100.6k` `MIT；代码免费；API 可能收费` `更新: 2026-04-15`
@@ -199,10 +210,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 微软 · 研究参考价值高；更新偏旧
 
-</details>
 
-<details>
-<summary><h2>三、视频（33 个）</h2></summary>
+## 三、视频
 
 **1.** **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — 实时换脸工具
 `Stars: 93.4k` `AGPL-3.0` `更新: 2026-05-24`
@@ -369,10 +378,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 yuanzhongqiao · 早期项目；需验证质量
 
-</details>
 
-<details>
-<summary><h2>四、自媒体（21 个）</h2></summary>
+## 四、自媒体
 
 **1.** **[yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)** — 强力媒体下载器
 `Stars: 165.9k` `Unlicense` `更新: 2026-05-25`
@@ -479,10 +486,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 hekaixin66 · 多账号多并发 MCP 服务；授权和平台规则风险
 
-</details>
 
-<details>
-<summary><h2>五、金融（23 个）</h2></summary>
+## 五、金融
 
 **1.** **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体交易
 `Stars: 79.9k` `Apache-2.0` `更新: 2026-05-17`
@@ -599,10 +604,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 OKX · 通过 MCP 连接 AI Agent 到现货/合约/期权/网格；实盘风险高
 
-</details>
 
-<details>
-<summary><h2>六、设计（15 个）</h2></summary>
+## 六、设计
 
 **1.** **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** — 可复制粘贴的 UI 组件集
 `Stars: 115.1k` `MIT` `更新: 2026-05-25`
@@ -679,10 +682,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 Figma · 插件开发参考
 
-</details>
 
-<details>
-<summary><h2>七、编程 & Agent（49 个）</h2></summary>
+## 七、编程 & Agent
 
 **1.** **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — 跨平台个人 AI 助理
 `Stars: 374.9k` `MIT；模型另付` `更新: 2026-05-26`
@@ -929,10 +930,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 蚂蚁集团 · 前端设计规范技能
 
-</details>
 
-<details>
-<summary><h2>八、浏览器 / 桌面自动化 / 工具底座（24 个）</h2></summary>
+## 八、浏览器 / 桌面自动化 / 工具底座
 
 **1.** **[public-apis/public-apis](https://github.com/public-apis/public-apis)** — 免费 API 目录
 `Stars: 437.3k` `MIT` `更新: 2026-05-26`
@@ -1054,10 +1053,8 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 AndrewNg 小迷妹 · 适合筛选技能库；成熟度需验证
 
-</details>
 
-<details>
-<summary><h2>九、官网 / 产品页 / 非单仓库入口（14 个）</h2></summary>
+## 九、官网 / 产品页 / 非单仓库入口
 
 这些链接不是可直接评估的单一 GitHub 仓库，建议只作为产品或组织入口，再按具体仓库、价格、许可和数据合规单独确认。
 
@@ -1131,10 +1128,8 @@ GitHub 仓库应看 opentoonz/opentoonz
 
 非仓库，商业和平台绑定需确认
 
-</details>
 
-<details>
-<summary><h2>十、注意事项</h2></summary>
+## 十、注意事项
 
 **换脸、人脸识别、桌面控制、浏览器控制、微信/QQ 通道**
 `涉及隐私、账号、平台规则和误操作风险`
@@ -1146,7 +1141,6 @@ GitHub 仓库应看 opentoonz/opentoonz
 
 先做研究、回测、模拟盘；实盘需要风控和合规审查
 
-</details>
 
 ## 联系方式
 
