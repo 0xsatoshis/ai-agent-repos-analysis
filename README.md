@@ -1,4 +1,4 @@
-# 165个 GitHub AI / Agent 仓库分类推荐清单
+# 210个 GitHub AI / Agent 仓库分类推荐清单
 
 GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别、视频自动化、金融研究、Agent 编程、浏览器自动化等方向。
 
@@ -128,7 +128,6 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 宝玉 · 技能资产可参考；复用需确认授权
 
-
 ## 二、语音
 
 **1.** **[openai/whisper](https://github.com/openai/whisper)** — 通用语音识别
@@ -141,194 +140,227 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 ggml · 本地低成本部署优秀；功能聚焦推理
 
-**3.** **[NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo)** — LLM/语音/多模态 AI 框架
-`Stars: 17.3k` `Apache-2.0` `更新: 2026-05-26`
+**3.** **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** — 开源前沿语音 AI
+`Stars: 47.5k` `MIT` `更新: 2026-05-06`
 
-🏢 NVIDIA · 企业级 LLM/语音/多模态框架；部署较重
+🏢 微软 · 微软开源语音 AI 前沿；生态活跃
 
-**4.** **[espnet/espnet](https://github.com/espnet/espnet)** — 端到端语音套件
-`Stars: 9.8k` `Apache-2.0` `更新: 2026-05-25`
-
-🏢 ESPnet · 研究和训练能力强；上手成本高
-
-**5.** **[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)** — 多语言 TTS 与声音克隆
-`Stars: 19.9k` `Apache-2.0` `更新: 2026-05-22`
-
-🏢 清华/面壁智能 · 多语言 TTS + 声音设计 + 声音克隆；模型资源另算
-
-**6.** **[rhasspy/piper](https://github.com/rhasspy/piper)** — 本地 TTS 系统
-`Stars: 11.0k` `MIT` `更新: 2025-08-26`
-
-🏢 Rhasspy · 本地 TTS 轻量实用；音色质量需实测
-
-**7.** **[suno-ai/bark](https://github.com/suno-ai/bark)** — 生成式语音模型
-`Stars: 39.1k` `MIT` `更新: 2024-08-19`
-
-🏢 Suno · 生成能力强；维护偏旧
-
-**8.** **[coqui-ai/TTS](https://github.com/coqui-ai/TTS)** — 开源 TTS 工具箱
+**4.** **[coqui-ai/TTS](https://github.com/coqui-ai/TTS)** — 开源 TTS 工具箱
 `Stars: 45.4k` `MPL-2.0` `更新: 2024-08-16`
 
 🏢 Coqui · 星标高、功能全；维护偏旧
 
-**9.** **[snakers4/silero-models](https://github.com/snakers4/silero-models)** — 轻量预训练 TTS 模型
-`Stars: 5.9k` `NOASSERTION` `更新: 2026-05-20`
+**5.** **[suno-ai/bark](https://github.com/suno-ai/bark)** — 生成式语音模型
+`Stars: 39.1k` `MIT` `更新: 2024-08-19`
 
-🏢 Silero · 轻量模型适合边缘验证；授权需核实
+🏢 Suno · 生成能力强；维护偏旧
 
-**10.** **[microsoft/SpeechT5](https://github.com/microsoft/SpeechT5)** — 语音文本预训练
-`Stars: 1.4k` `MIT` `更新: 2024-04-24`
-
-🏢 微软 · 研究参考价值高；更新偏旧
-
-**11.** **[abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)** — TTS/语音克隆/音频处理工作台
-`Stars: 10.3k` `GPL-3.0` `更新: 2025-12-05`
-
-🏢 ABUS · 集成 TTS/声音克隆/Whisper/人声分离/翻译；需实测稳定性
-
-**12.** **[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)** — 离线语音识别
+**6.** **[mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)** — 离线语音识别
 `Stars: 26.8k` `MPL-2.0` `更新: 2025-06-19`
 
 🏢 Mozilla · 历史项目参考；新项目优先 Whisper 系
 
+**7.** **[OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)** — 多语言 TTS 与声音克隆
+`Stars: 19.9k` `Apache-2.0` `更新: 2026-05-22`
+
+🏢 清华/面壁智能 · 多语言 TTS + 声音设计 + 声音克隆；模型资源另算
+
+**8.** **[NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo)** — LLM/语音/多模态 AI 框架
+`Stars: 17.3k` `Apache-2.0` `更新: 2026-05-26`
+
+🏢 NVIDIA · 企业级 LLM/语音/多模态框架；部署较重
+
+**9.** **[rhasspy/piper](https://github.com/rhasspy/piper)** — 本地 TTS 系统
+`Stars: 11.0k` `MIT` `更新: 2025-08-26`
+
+🏢 Rhasspy · 本地 TTS 轻量实用；音色质量需实测
+
+**10.** **[abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro)** — TTS/语音克隆/音频处理工作台
+`Stars: 10.3k` `GPL-3.0` `更新: 2025-12-05`
+
+🏢 ABUS · 集成 TTS/声音克隆/Whisper/人声分离/翻译；需实测稳定性
+
+**11.** **[espnet/espnet](https://github.com/espnet/espnet)** — 端到端语音套件
+`Stars: 9.8k` `Apache-2.0` `更新: 2026-05-25`
+
+🏢 ESPnet · 研究和训练能力强；上手成本高
+
+**12.** **[snakers4/silero-models](https://github.com/snakers4/silero-models)** — 轻量预训练 TTS 模型
+`Stars: 5.9k` `NOASSERTION` `更新: 2026-05-20`
+
+🏢 Silero · 轻量模型适合边缘验证；授权需核实
+
+**13.** **[microsoft/SpeechT5](https://github.com/microsoft/SpeechT5)** — 语音文本预训练
+`Stars: 1.4k` `MIT` `更新: 2024-04-24`
+
+🏢 微软 · 研究参考价值高；更新偏旧
 
 ## 三、视频
 
-**1.** **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** — 音视频处理核心
+**1.** **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — 实时换脸工具
+`Stars: 93.4k` `AGPL-3.0` `更新: 2026-05-24`
+
+🏢 hacksider · 社区强、活跃；换脸合规和 AGPL 风险高
+
+**2.** **[obsproject/obs-studio](https://github.com/obsproject/obs-studio)** — 直播录屏软件
+`Stars: 72.7k` `GPL-2.0` `更新: 2026-05-23`
+
+🏢 OBS Project · 录制/直播基础能力强；二开成本高
+
+**3.** **[FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)** — 音视频处理核心
 `Stars: 60.5k` `NOASSERTION` `更新: 2026-05-26`
 
 🏢 FFmpeg · 所有视频自动化底座；许可证细节需按组件核实
-
-**2.** **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — React 生成视频
-`Stars: 48.1k` `NOASSERTION` `更新: 2026-05-26`
-
-🏢 Remotion · 工程化视频渲染强；商业授权需核实
-
-**3.** **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — HTML 视频生成框架
-`Stars: 21.5k` `Apache-2.0` `更新: 2026-05-26`
-
-🏢 HeyGen · 适合代码化视频、字幕、动画
 
 **4.** **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** — 一键短视频生成
 `Stars: 59.8k` `MIT` `更新: 2026-05-26`
 
 🏢 Harry · 短视频自动化最值得先看；API/素材/平台成本另算
 
-**5.** **[Zulko/moviepy](https://github.com/Zulko/moviepy)** — Python 视频剪辑
-`Stars: 14.6k` `MIT` `更新: 2026-03-07`
+**5.** **[remotion-dev/remotion](https://github.com/remotion-dev/remotion)** — React 生成视频
+`Stars: 48.1k` `NOASSERTION` `更新: 2026-05-26`
 
-🏢 Zulko · Python 自动剪辑实用；复杂渲染不如 Remotion
+🏢 Remotion · 工程化视频渲染强；商业授权需核实
 
 **6.** **[mifi/lossless-cut](https://github.com/mifi/lossless-cut)** — 无损视频剪切
 `Stars: 40.7k` `GPL-2.0` `更新: 2026-05-23`
 
 🏢 Mikael Finstad · 素材切割非常实用；不是生成框架
 
-**7.** **[obsproject/obs-studio](https://github.com/obsproject/obs-studio)** — 直播录屏软件
-`Stars: 72.7k` `GPL-2.0` `更新: 2026-05-23`
+**7.** **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** — HTML 视频生成框架
+`Stars: 21.5k` `Apache-2.0` `更新: 2026-05-26`
 
-🏢 OBS Project · 录制/直播基础能力强；二开成本高
+🏢 HeyGen · 适合代码化视频、字幕、动画
 
-**8.** **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** — 实时换脸工具
-`Stars: 93.4k` `AGPL-3.0` `更新: 2026-05-24`
-
-🏢 hacksider · 社区强、活跃；换脸合规和 AGPL 风险高
-
-**9.** **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI 全自动短视频引擎
+**8.** **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** — AI 全自动短视频引擎
 `Stars: 20.0k` `Apache-2.0` `更新: 2026-05-18`
 
 🏢 AIDC-AI · 全自动短视频引擎；部署成本高
 
-**10.** **[MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator)** — AI 影视生产级工具
-`Stars: 3.7k` `AGPL-3.0` `更新: 2026-05-25`
+**9.** **[AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)** — 图像驱动动画
+`Stars: 15.0k` `MIT` `更新: 2024-11-14`
 
-🏢 MemeCalculate · 支持 Seedance 2.0 / 剧本到成片全流程；AGPL 商用限制
+🏢 Aliaksandr Siarohin · 经典研究项目；新项目需评估替代方案
 
-**11.** **[elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)** — Reddit 视频生成
+**10.** **[Zulko/moviepy](https://github.com/Zulko/moviepy)** — Python 视频剪辑
+`Stars: 14.6k` `MIT` `更新: 2026-03-07`
+
+🏢 Zulko · Python 自动剪辑实用；复杂渲染不如 Remotion
+
+**11.** **[chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama)** — AI 一站式短剧生成平台
+`Stars: 12.5k` `未声明` `更新: 2026-05-21`
+
+🏢 AI 火宝 · 一句话生成完整短剧；许可证不清
+
+**12.** **[elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)** — Reddit 视频生成
 `Stars: 12.3k` `GPL-3.0` `更新: 2026-05-25`
 
 🏢 Lewis Menelaws · 自动化链路成熟；内容平台规则风险
 
-**12.** **[opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)** — 二维动画制作
-`Stars: 6.8k` `NOASSERTION` `更新: 2026-05-26`
+**13.** **[linyqh/NarratoAI](https://github.com/linyqh/NarratoAI)** — AI 解说与自动剪辑
+`Stars: 9.6k` `NOASSERTION` `更新: 2026-04-27`
 
-🏢 OpenToonz · 动画制作入口；不是 AI 自动化工具
-
-**13.** **[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)** — AI 高光提取与自动剪辑
-`Stars: 5.5k` `MIT` `更新: 2026-05-08`
-
-🏢 Kris K · AI 智能高光提取与二创剪辑工具；部署较重
+🏢 viccy · 一键 AI 解说+自动剪辑视频；许可证不清
 
 **14.** **[browser-use/video-use](https://github.com/browser-use/video-use)** — AI Agent 视频剪辑工具
 `Stars: 8.5k` `MIT` `更新: 2026-05-15`
 
 🏢 Browser Use · 用 AI 编程代理剪辑视频；方向新，成熟度需实测
 
-**15.** **[HKUDS/ViMax](https://github.com/HKUDS/ViMax)** — Agent 驱动一站式视频生成
-`Stars: 7.7k` `MIT` `更新: 2026-05-26`
-
-🏢 港大数据智能实验室 · 导演/编剧/制片/生成一体化；落地需二次工程化
-
-**16.** **[facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo)** — 视频理解研究库
-`Stars: 3.6k` `Apache-2.0` `更新: 2026-05-05`
-
-🏢 Meta · 视频理解研究可用；不是生成工具
-
-**17.** **[PaddlePaddle/PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo)** — 视频理解工具箱
-`Stars: 1.7k` `Apache-2.0` `更新: 2025-02-12`
-
-🏢 百度 PaddlePaddle · 中文生态可参考；活跃度一般
-
-**18.** **[XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR)** — 视频图像修复
+**15.** **[XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR)** — 视频图像修复
 `Stars: 8.3k` `Apache-2.0` `更新: 2024-07-21`
 
 🏢 XPixelGroup · 修复/超分基础库；维护偏旧
 
-**19.** **[PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)** — 视频背景抠像
+**16.** **[HKUDS/ViMax](https://github.com/HKUDS/ViMax)** — Agent 驱动一站式视频生成
+`Stars: 7.7k` `MIT` `更新: 2026-05-26`
+
+🏢 港大数据智能实验室 · 导演/编剧/制片/生成一体化；落地需二次工程化
+
+**17.** **[PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)** — 视频背景抠像
 `Stars: 7.2k` `MIT` `更新: 2024-06-19`
 
 🏢 Peter Lin · 抠像方向实用；维护偏旧
 
-**20.** **[AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model)** — 图像驱动动画
-`Stars: 15.0k` `MIT` `更新: 2024-11-14`
+**18.** **[opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)** — 二维动画制作
+`Stars: 6.8k` `NOASSERTION` `更新: 2026-05-26`
 
-🏢 Aliaksandr Siarohin · 经典研究项目；新项目需评估替代方案
+🏢 OpenToonz · 动画制作入口；不是 AI 自动化工具
 
-**21.** **[chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama)** — AI 一站式短剧生成平台
-`Stars: 12.5k` `未声明` `更新: 2026-05-21`
-
-🏢 AI 火宝 · 一句话生成完整短剧；许可证不清
-
-**22.** **[alecm20/story-flicks](https://github.com/alecm20/story-flicks)** — 故事视频生成
-`Stars: 2.4k` `未声明` `更新: 2025-03-12`
-
-🏢 alecm20 · 场景可参考；许可证不清
-
-**23.** **[yuanzhongqiao/deep-comedy-pro](https://github.com/yuanzhongqiao/deep-comedy-pro)** — AI 短剧工厂
-`Stars: 4` `未声明` `更新: 2026-05-10`
-
-🏢 yuanzhongqiao · 早期项目；需验证质量
-
-**24.** **[happyhorseai/happyhorse](https://github.com/happyhorseai/happyhorse)** — 文本/图片转 1080p 电影视频
-`Stars: 132` `未声明` `更新: 2026-04-08`
-
-🏢 HappyHorse AI · 文本或图片生成电影级视频；成熟度和授权不清
-
-**25.** **[ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)** — 视频号下载器
+**19.** **[ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download)** — 视频号下载器
 `Stars: 6.2k` `NOASSERTION` `更新: 2026-05-24`
 
 🏢 ltaoo · 视频号素材入口；平台规则风险
 
-**26.** **[jianshuo/claude-skills](https://github.com/jianshuo/claude-skills)** — 视频制作 Claude 技能集
-`Stars: 62` `MIT；API 可能收费` `更新: 2026-05-26`
+**20.** **[zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)** — AI 高光提取与自动剪辑
+`Stars: 5.5k` `MIT` `更新: 2026-05-08`
 
-🏢 建硕 · 转录/翻译/配音/多机位/字幕/重构等视频技能集
+🏢 Kris K · AI 智能高光提取与二创剪辑工具；部署较重
 
-**27.** **[TencentARC/VQFR](https://github.com/TencentARC/VQFR)** — 人脸视频修复
+**21.** **[MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator)** — AI 影视生产级工具
+`Stars: 3.7k` `AGPL-3.0` `更新: 2026-05-25`
+
+🏢 MemeCalculate · 支持 Seedance 2.0 / 剧本到成片全流程；AGPL 商用限制
+
+**22.** **[Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish)** — AI 短剧全流程生产工作台
+`Stars: 3.7k` `Apache-2.0` `更新: 2026-04-20`
+
+🏢 Extreme · 从剧本到成片的结构化短剧生产；需实测稳定性
+
+**23.** **[facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo)** — 视频理解研究库
+`Stars: 3.6k` `Apache-2.0` `更新: 2026-05-05`
+
+🏢 Meta · 视频理解研究可用；不是生成工具
+
+**24.** **[remotion-dev/skills](https://github.com/remotion-dev/skills)** — Remotion 视频 Agent 技能
+`Stars: 3.4k` `未声明` `更新: 2026-05-07`
+
+🏢 Remotion · Remotion 官方 Agent 技能集；许可证不清
+
+**25.** **[Kedreamix/Linly-Talker](https://github.com/Kedreamix/Linly-Talker)** — 数字人对话系统
+`Stars: 3.3k` `MIT` `更新: 2026-02-10`
+
+🏢 Kedreamix · 集成 Whisper/LLM/TTS/说话人头生成；更新偏旧
+
+**26.** **[alecm20/story-flicks](https://github.com/alecm20/story-flicks)** — 故事视频生成
+`Stars: 2.4k` `未声明` `更新: 2025-03-12`
+
+🏢 alecm20 · 场景可参考；许可证不清
+
+**27.** **[PaddlePaddle/PaddleVideo](https://github.com/PaddlePaddle/PaddleVideo)** — 视频理解工具箱
+`Stars: 1.7k` `Apache-2.0` `更新: 2025-02-12`
+
+🏢 百度 PaddlePaddle · 中文生态可参考；活跃度一般
+
+**28.** **[dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill)** — Seedance 2.0 视频提示词技能
+`Stars: 1.2k` `MIT` `更新: 2026-02-18`
+
+🏢 Dex · Seedance 2.0 视频生成提示词优化；更新偏旧
+
+**29.** **[NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill)** — AI 解说大师技能
+`Stars: 694` `MIT` `更新: 2026-04-23`
+
+🏢 NarratorAI · 封装解说 CLI 供 Claude/Codex 调用；规模较小
+
+**30.** **[TencentARC/VQFR](https://github.com/TencentARC/VQFR)** — 人脸视频修复
 `Stars: 354` `NOASSERTION` `更新: 2022-12-15`
 
 🏢 腾讯 ARC Lab · 可作修复参考；维护较旧
 
+**31.** **[happyhorseai/happyhorse](https://github.com/happyhorseai/happyhorse)** — 文本/图片转 1080p 电影视频
+`Stars: 132` `未声明` `更新: 2026-04-08`
+
+🏢 HappyHorse AI · 文本或图片生成电影级视频；成熟度和授权不清
+
+**32.** **[jianshuo/claude-skills](https://github.com/jianshuo/claude-skills)** — 视频制作 Claude 技能集
+`Stars: 62` `MIT；API 可能收费` `更新: 2026-05-26`
+
+🏢 建硕 · 转录/翻译/配音/多机位/字幕/重构等视频技能集
+
+**33.** **[yuanzhongqiao/deep-comedy-pro](https://github.com/yuanzhongqiao/deep-comedy-pro)** — AI 短剧工厂
+`Stars: 4` `未声明` `更新: 2026-05-10`
+
+🏢 yuanzhongqiao · 早期项目；需验证质量
 
 ## 四、自媒体
 
@@ -337,189 +369,222 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 yt-dlp · 素材采集首选；需遵守平台条款
 
-**2.** **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — AI 网页抓取与结构化
+**2.** **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** — 智能体开发平台
+`Stars: 137.7k` `MIT` `更新: 2026-05-26`
+
+🏢 LangChain · 内容生成和工具编排生态强；框架复杂度高
+
+**3.** **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** — AI 网页抓取与结构化
 `Stars: 124.9k` `AGPL-3.0` `更新: 2026-05-26`
 
 🏢 Firecrawl · 面向 AI Agent 的网页搜索、抓取和清洗；AGPL 和服务成本需注意
-
-**3.** **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** — 自适应网页抓取框架
-`Stars: 54.4k` `BSD-3-Clause` `更新: 2026-05-18`
-
-🏢 Karim Shoair · 自适应抓取框架，从单请求到全站爬取；许可清晰
 
 **4.** **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 浏览器自动化代理
 `Stars: 95.7k` `MIT` `更新: 2026-05-26`
 
 🏢 Browser Use · 可处理复杂网页流程；账号风控要重视
 
-**5.** **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** — 智能体开发平台
-`Stars: 137.7k` `MIT` `更新: 2026-05-26`
-
-🏢 LangChain · 内容生成和工具编排生态强；框架复杂度高
-
-**6.** **[soimort/you-get](https://github.com/soimort/you-get)** — 网页媒体下载
+**5.** **[soimort/you-get](https://github.com/soimort/you-get)** — 网页媒体下载
 `Stars: 56.9k` `NOASSERTION` `更新: 2026-04-30`
 
 🏢 Mort Yao · 素材下载常用；授权需核实
+
+**6.** **[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)** — 自适应网页抓取框架
+`Stars: 54.4k` `BSD-3-Clause` `更新: 2026-05-18`
+
+🏢 Karim Shoair · 自适应抓取框架，从单请求到全站爬取；许可清晰
 
 **7.** **[iawia002/lux](https://github.com/iawia002/lux)** — 快速视频下载
 `Stars: 31.4k` `MIT` `更新: 2026-03-29`
 
 🏢 Xinzhao Xu · 简洁备选
 
-**8.** **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — 全网内容搜索阅读代理
-`Stars: 20.3k` `MIT` `更新: 2026-05-18`
-
-🏢 Pnant · Twitter/Reddit/YouTube/B站/小红书全网搜索阅读；零 API 费用
-
-**9.** **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** — AI 赚钱导航
-`Stars: 16.7k` `MIT` `更新: 2026-05-21`
-
-🏢 yikart · 适合找项目线索；不是生产框架
-
-**10.** **[joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** — 资料转 NotebookLM
-`Stars: 4.7k` `MIT` `更新: 2026-04-28`
-
-🏢 向阳乔木 · 内容整理实用；依赖 NotebookLM 工作流
-
-**11.** **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — 跨平台话题深度研究技能
+**8.** **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** — 跨平台话题深度研究技能
 `Stars: 26.6k` `MIT` `更新: 2026-05-22`
 
 🏢 Matt Van Horn · 跨 Reddit/X/YouTube/HN/Polymarket 综合研究；API 成本另算
 
-**12.** **[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)** — 内容技能合集
+**9.** **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — 全网内容搜索阅读代理
+`Stars: 20.3k` `MIT` `更新: 2026-05-18`
+
+🏢 Pnant · Twitter/Reddit/YouTube/B站/小红书全网搜索阅读；零 API 费用
+
+**10.** **[bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter)** — AI 副业赚钱大集合
+`Stars: 17.2k` `未声明` `更新: 2025-10-20`
+
+🏢 17yongai · AI 副业项目导航；7 个月未更新，许可证不清
+
+**11.** **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** — AI 赚钱导航
+`Stars: 16.7k` `MIT` `更新: 2026-05-21`
+
+🏢 yikart · 适合找项目线索；不是生产框架
+
+**12.** **[easychen/opc-methodology](https://github.com/easychen/opc-methodology)** — 一人企业方法论
+`Stars: 15.9k` `NOASSERTION` `更新: 2026-04-23`
+
+🏢 Easy · 系统化的一人企业/副业方法论；非技术工具
+
+**13.** **[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)** — 内容技能合集
 `Stars: 11.9k` `MIT；API 可能收费` `更新: 2026-05-08`
 
 🏢 Khazix · 内容流程可参考；需筛选质量
 
-**13.** **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** — 中文 AI 降痕
+**14.** **[op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)** — 中文 AI 降痕
 `Stars: 8.4k` `MIT` `更新: 2026-01-19`
 
 🏢 歸藏 · 文案处理可参考；效果需实测
 
-**14.** **[huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator)** — AI 人像 Prompt 生成系统
-`Stars: 1.4k` `未声明` `更新: 2026-05-10`
+**15.** **[joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** — 资料转 NotebookLM
+`Stars: 4.7k` `MIT` `更新: 2026-04-28`
 
-🏢 huangserva · 从特征库智能组合生成人像描述 Prompt；许可证不清
+🏢 向阳乔木 · 内容整理实用；依赖 NotebookLM 工作流
 
-**15.** **[CheeMao/ai-content](https://github.com/CheeMao/ai-content)** — AI 内容采集创作发布系统
-`Stars: 247` `NOASSERTION` `更新: 2026-03-20`
+**16.** **[geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill)** — Markdown 转公众号排版发布
+`Stars: 2.6k` `NOASSERTION` `更新: 2026-05-28`
 
-🏢 CheeMao · 采集、选题、创作、小红书卡图、发布全流程；许可证不清
+🏢 geekjourney · 40+ 排版样式、AI 配图、批量发布；许可证不清
 
-**16.** **[jackwener/xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli)** — 小红书命令行
+**17.** **[XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)** — AI 赚钱副业手册
+`Stars: 2.6k` `Apache-2.0` `更新: 2026-05-28`
+
+🏢 Y11 · AI 副业指南；许可清晰
+
+**18.** **[jackwener/xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli)** — 小红书命令行
 `Stars: 2.0k` `未声明` `更新: 2026-03-21`
 
 🏢 jakevin · 小红书场景明确；账号和平台风控高
 
-**17.** **[hekaixin66-sketch/xiaohongshuritter](https://github.com/hekaixin66-sketch/xiaohongshuritter)** — 小红书多账号并发 MCP
+**19.** **[huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator)** — AI 人像 Prompt 生成系统
+`Stars: 1.4k` `未声明` `更新: 2026-05-10`
+
+🏢 huangserva · 从特征库智能组合生成人像描述 Prompt；许可证不清
+
+**20.** **[CheeMao/ai-content](https://github.com/CheeMao/ai-content)** — AI 内容采集创作发布系统
+`Stars: 247` `NOASSERTION` `更新: 2026-03-20`
+
+🏢 CheeMao · 采集、选题、创作、小红书卡图、发布全流程；许可证不清
+
+**21.** **[hekaixin66-sketch/xiaohongshuritter](https://github.com/hekaixin66-sketch/xiaohongshuritter)** — 小红书多账号并发 MCP
 `Stars: 134` `未声明` `更新: 2026-04-05`
 
 🏢 hekaixin66 · 多账号多并发 MCP 服务；授权和平台规则风险
 
-
 ## 五、金融
 
-**1.** **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** — 金融数据平台
-`Stars: 68.1k` `NOASSERTION` `更新: 2026-05-26`
-
-🏢 OpenBB · 投研数据入口强；数据源可能收费
-
-**2.** **[microsoft/qlib](https://github.com/microsoft/qlib)** — AI 量化平台
-`Stars: 43.5k` `MIT` `更新: 2026-04-22`
-
-🏢 微软 · AI 量化研究首选之一
-
-**3.** **[vnpy/vnpy](https://github.com/vnpy/vnpy)** — 量化交易框架
-`Stars: 41.0k` `MIT` `更新: 2026-05-17`
-
-🏢 vn.py · 中文量化生态成熟；实盘接入需严格风控
-
-**4.** **[mementum/backtrader](https://github.com/mementum/backtrader)** — 策略回测框架
-`Stars: 21.7k` `GPL-3.0` `更新: 2024-08-19`
-
-🏢 backtrader · 回测经典；维护偏旧、GPL 约束
-
-**5.** **[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)** — 加密交易机器人
-`Stars: 50.8k` `GPL-3.0` `更新: 2026-05-26`
-
-🏢 freqtrade · 加密策略验证成熟；实盘风险高
-
-**6.** **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体交易
+**1.** **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** — 多智能体交易
 `Stars: 79.9k` `Apache-2.0` `更新: 2026-05-17`
 
 🏢 Tauric Research · Agent 投研代表项目；先做研究别直接实盘
 
-**7.** **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** — 开源行情追踪与分析平台
-`Stars: 12.2k` `AGPL-3.0` `更新: 2026-05-02`
+**2.** **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** — 金融数据平台
+`Stars: 68.1k` `NOASSERTION` `更新: 2026-05-26`
 
-🏢 Open Dev Society · 开源行情追踪、个性化提醒、公司深度分析；AGPL 和部署成本
+🏢 OpenBB · 投研数据入口强；数据源可能收费
 
-**8.** **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动 A/H/美股智能分析
+**3.** **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — AI 实时全球情报监控面板
+`Stars: 55.0k` `NOASSERTION` `更新: 2026-05-26`
+
+🏢 Elie Habib · AI 驱动新闻聚合、地缘政治和基础设施监控；许可证不清
+
+**4.** **[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)** — 加密交易机器人
+`Stars: 50.8k` `GPL-3.0` `更新: 2026-05-26`
+
+🏢 freqtrade · 加密策略验证成熟；实盘风险高
+
+**5.** **[microsoft/qlib](https://github.com/microsoft/qlib)** — AI 量化平台
+`Stars: 43.5k` `MIT` `更新: 2026-04-22`
+
+🏢 微软 · AI 量化研究首选之一
+
+**6.** **[vnpy/vnpy](https://github.com/vnpy/vnpy)** — 量化交易框架
+`Stars: 41.0k` `MIT` `更新: 2026-05-17`
+
+🏢 vn.py · 中文量化生态成熟；实盘接入需严格风控
+
+**7.** **[ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)** — LLM 驱动 A/H/美股智能分析
 `Stars: 39.0k` `MIT` `更新: 2026-05-26`
 
 🏢 ZhuLinsen · 多数据源行情 + 实时新闻 + LLM 决策仪表盘 + 多渠道推送
 
-**9.** **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — 个人交易 Agent
-`Stars: 8.8k` `MIT` `更新: 2026-05-25`
+**8.** **[anthropics/financial-services](https://github.com/anthropics/financial-services)** — 金融 AI 示例
+`Stars: 27.9k` `Apache-2.0` `更新: 2026-05-21`
 
-🏢 港大数据智能实验室 · 个人交易 Agent 方向活跃；需严谨回测
+🏢 Anthropic · 示例参考价值高；不是完整产品
 
-**10.** **[polakowo/vectorbt](https://github.com/polakowo/vectorbt)** — 高性能向量化回测引擎
-`Stars: 7.7k` `NOASSERTION` `更新: 2026-04-25`
+**9.** **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** — 金融市场语言模型
+`Stars: 27.1k` `MIT` `更新: 2026-04-13`
 
-🏢 Oleg Polakow · 千级策略并行回测；授权需核实
+🏢 ShiYu · 金融市场基础语言模型；研究价值高
 
-**11.** **[pmorissette/bt](https://github.com/pmorissette/bt)** — 组合回测工具
-`Stars: 2.9k` `MIT` `更新: 2026-05-05`
+**10.** **[virattt/dexter](https://github.com/virattt/dexter)** — 金融深度研究 Agent
+`Stars: 26.5k` `未声明` `更新: 2026-05-24`
 
-🏢 Philippe Morissette · 组合回测轻量；生态不如主流平台
+🏢 Virat Singh · 自主执行深度金融研究的 Agent；许可证不清
 
-**12.** **[TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python)** — 技术指标库
-`Stars: 12.0k` `BSD-2-Clause` `更新: 2026-03-16`
+**11.** **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** — 交互式金融数据分析终端
+`Stars: 24.2k` `NOASSERTION` `更新: 2026-05-26`
 
-🏢 TA-Lib · 指标计算基础库；不是完整平台
+🏢 Fincept · 市场分析、投研和经济数据的交互式终端；许可证不清
+
+**12.** **[mementum/backtrader](https://github.com/mementum/backtrader)** — 策略回测框架
+`Stars: 21.7k` `GPL-3.0` `更新: 2024-08-19`
+
+🏢 backtrader · 回测经典；维护偏旧、GPL 约束
 
 **13.** **[quantopian/zipline](https://github.com/quantopian/zipline)** — 量化回测库
 `Stars: 19.8k` `Apache-2.0` `更新: 2024-02-13`
 
 🏢 Quantopian · 经典回测框架；更新偏旧
 
-**14.** **[binance/binance-connector-python](https://github.com/binance/binance-connector-python)** — 币安 API 连接器
-`Stars: 2.9k` `MIT` `更新: 2026-05-22`
+**14.** **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** — 开源行情追踪与分析平台
+`Stars: 12.2k` `AGPL-3.0` `更新: 2026-05-02`
 
-🏢 Binance 币安 · 交易所接口清晰；交易所和地区合规风险
+🏢 Open Dev Society · 开源行情追踪、个性化提醒、公司深度分析；AGPL 和部署成本
 
-**15.** **[okx/agent-trade-kit](https://github.com/okx/agent-trade-kit)** — OKX 交易 MCP 服务器
-`Stars: 313` `MIT` `更新: 2026-05-20`
+**15.** **[TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python)** — 技术指标库
+`Stars: 12.0k` `BSD-2-Clause` `更新: 2026-03-16`
 
-🏢 OKX · 通过 MCP 连接 AI Agent 到现货/合约/期权/网格；实盘风险高
+🏢 TA-Lib · 指标计算基础库；不是完整平台
 
-**16.** **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** — 交互式金融数据分析终端
-`Stars: 24.2k` `NOASSERTION` `更新: 2026-05-26`
+**16.** **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** — 个人交易 Agent
+`Stars: 8.8k` `MIT` `更新: 2026-05-25`
 
-🏢 Fincept · 市场分析、投研和经济数据的交互式终端；许可证不清
+🏢 港大数据智能实验室 · 个人交易 Agent 方向活跃；需严谨回测
 
-**17.** **[brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger)** — 多市场 AI 量化交易平台
+**17.** **[polakowo/vectorbt](https://github.com/polakowo/vectorbt)** — 高性能向量化回测引擎
+`Stars: 7.7k` `NOASSERTION` `更新: 2026-04-25`
+
+🏢 Oleg Polakow · 千级策略并行回测；授权需核实
+
+**18.** **[brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger)** — 多市场 AI 量化交易平台
 `Stars: 6.6k` `Apache-2.0` `更新: 2026-05-25`
 
 🏢 QuantDinger · 覆盖加密、股票、外汇的回测与实盘；成熟度需实测
 
-**18.** **[anthropics/financial-services](https://github.com/anthropics/financial-services)** — 金融 AI 示例
-`Stars: 27.9k` `Apache-2.0` `更新: 2026-05-21`
+**19.** **[pmorissette/bt](https://github.com/pmorissette/bt)** — 组合回测工具
+`Stars: 2.9k` `MIT` `更新: 2026-05-05`
 
-🏢 Anthropic · 示例参考价值高；不是完整产品
+🏢 Philippe Morissette · 组合回测轻量；生态不如主流平台
 
-**19.** **[virattt/dexter](https://github.com/virattt/dexter)** — 金融深度研究 Agent
-`Stars: 26.5k` `未声明` `更新: 2026-05-24`
+**20.** **[binance/binance-connector-python](https://github.com/binance/binance-connector-python)** — 币安 API 连接器
+`Stars: 2.9k` `MIT` `更新: 2026-05-22`
 
-🏢 Virat Singh · 自主执行深度金融研究的 Agent；许可证不清
+🏢 Binance 币安 · 交易所接口清晰；交易所和地区合规风险
 
-**20.** **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** — AI 实时全球情报监控面板
-`Stars: 55.0k` `NOASSERTION` `更新: 2026-05-26`
+**21.** **[bwjoke/BTC-Trading-Since-2020](https://github.com/bwjoke/BTC-Trading-Since-2020)** — BTC 交易公开记录
+`Stars: 1.1k` `未声明` `更新: 2026-05-03`
 
-🏢 Elie Habib · AI 驱动新闻聚合、地缘政治和基础设施监控；许可证不清
+🏢 bwjoke · 2020 年至今公开 BTC 交易记录；许可证不清
 
+**22.** **[AlphaGBM/skills](https://github.com/AlphaGBM/skills)** — 期权 AI 交易技能
+`Stars: 423` `MIT` `更新: 2026-05-27`
+
+🏢 AlphaGBM · 29 个期权智能分析 Agent 技能；规模较小
+
+**23.** **[okx/agent-trade-kit](https://github.com/okx/agent-trade-kit)** — OKX 交易 MCP 服务器
+`Stars: 313` `MIT` `更新: 2026-05-20`
+
+🏢 OKX · 通过 MCP 连接 AI Agent 到现货/合约/期权/网格；实盘风险高
 
 ## 六、设计
 
@@ -528,15 +593,15 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 shadcn · 现代前端组件首选之一
 
-**2.** **[ant-design/ant-design](https://github.com/ant-design/ant-design)** — 企业 React 组件
-`Stars: 98.1k` `MIT` `更新: 2026-05-26`
-
-🏢 蚂蚁集团 · 企业后台成熟度高
-
-**3.** **[mui/material-ui](https://github.com/mui/material-ui)** — Material 组件库
+**2.** **[mui/material-ui](https://github.com/mui/material-ui)** — Material 组件库
 `Stars: 98.4k` `MIT` `更新: 2026-05-25`
 
 🏢 MUI · 国际化生态强
+
+**3.** **[ant-design/ant-design](https://github.com/ant-design/ant-design)** — 企业 React 组件
+`Stars: 98.1k` `MIT` `更新: 2026-05-26`
+
+🏢 蚂蚁集团 · 企业后台成熟度高
 
 **4.** **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** — 原子化 CSS 框架
 `Stars: 95.1k` `MIT` `更新: 2026-05-24`
@@ -548,342 +613,424 @@ GitHub AI / Agent 仓库分类推荐清单，覆盖图片生成、语音识别�
 
 🏢 Storybook · 组件工程化和设计系统必备
 
-**6.** **[penpot/penpot](https://github.com/penpot/penpot)** — 开源协作设计工具
-`Stars: 48.5k` `MPL-2.0` `更新: 2026-05-26`
+**6.** **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** — 品牌设计系统 DESIGN.md 合集
+`Stars: 84.6k` `MIT` `更新: 2026-05-18`
 
-🏢 Penpot · 开源 Figma 替代方向
+🏢 VoltAgent · 品牌设计系统 DESIGN.md 文件集合；不是工具
 
-**7.** **[nexu-io/open-design](https://github.com/nexu-io/open-design)** — 开源 AI 设计工具
+**7.** **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — UIUX 提示技能
+`Stars: 83.2k` `MIT` `更新: 2026-04-03`
+
+🏢 Next Level Builder · UI 提示流程可参考
+
+**8.** **[nexu-io/open-design](https://github.com/nexu-io/open-design)** — 开源 AI 设计工具
 `Stars: 53.1k` `Apache-2.0；API 可能收费` `更新: 2026-05-26`
 
 🏢 nexu · 本地优先的开源 Claude Design 替代方案，71 套设计系统
 
-**8.** **[plasmicapp/plasmic](https://github.com/plasmicapp/plasmic)** — 可视化 React 构建
-`Stars: 6.8k` `MIT` `更新: 2026-05-25`
+**9.** **[penpot/penpot](https://github.com/penpot/penpot)** — 开源协作设计工具
+`Stars: 48.5k` `MPL-2.0` `更新: 2026-05-26`
 
-🏢 Plasmic · 可视化构建能力强；平台绑定需评估
-
-**9.** **[webstudio-is/webstudio](https://github.com/webstudio-is/webstudio)** — 开源网站构建器
-`Stars: 8.6k` `AGPL-3.0` `更新: 2026-05-26`
-
-🏢 Webstudio · 网站构建器方向；AGPL 约束
+🏢 Penpot · 开源 Figma 替代方向
 
 **10.** **[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** — 站点知识抓取
 `Stars: 22.2k` `ISC` `更新: 2025-07-07`
 
 🏢 Builder.io · 可为设计/站点重构准备上下文
 
-**11.** **[figma/plugin-samples](https://github.com/figma/plugin-samples)** — Figma 插件示例
-`Stars: 1.8k` `MIT` `更新: 2026-03-23`
-
-🏢 Figma · 插件开发参考
-
-**12.** **[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)** — 品牌设计系统 DESIGN.md 合集
-`Stars: 84.6k` `MIT` `更新: 2026-05-18`
-
-🏢 VoltAgent · 品牌设计系统 DESIGN.md 文件集合；不是工具
-
-**13.** **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** — AI 网站克隆模板
+**11.** **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** — AI 网站克隆模板
 `Stars: 15.5k` `MIT；API 可能收费` `更新: 2026-05-07`
 
 🏢 JCodesMore · 站点克隆工作流可参考；依赖 SaaS/API
 
-**14.** **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — UIUX 提示技能
-`Stars: 83.2k` `MIT` `更新: 2026-04-03`
+**12.** **[webstudio-is/webstudio](https://github.com/webstudio-is/webstudio)** — 开源网站构建器
+`Stars: 8.6k` `AGPL-3.0` `更新: 2026-05-26`
 
-🏢 Next Level Builder · UI 提示流程可参考
+🏢 Webstudio · 网站构建器方向；AGPL 约束
 
+**13.** **[plasmicapp/plasmic](https://github.com/plasmicapp/plasmic)** — 可视化 React 构建
+`Stars: 6.8k` `MIT` `更新: 2026-05-25`
+
+🏢 Plasmic · 可视化构建能力强；平台绑定需评估
+
+**14.** **[lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)** — HTML PPT 制作技能
+`Stars: 5.1k` `MIT` `更新: 2026-04-26`
+
+🏢 luuuyi · 24 主题 31 布局 20+ 动画的 HTML PPT 生成
+
+**15.** **[figma/plugin-samples](https://github.com/figma/plugin-samples)** — Figma 插件示例
+`Stars: 1.8k` `MIT` `更新: 2026-03-23`
+
+🏢 Figma · 插件开发参考
 
 ## 七、编程 & Agent
 
-**1.** **[openai/codex](https://github.com/openai/codex)** — 终端编程 Agent
-`Stars: 86.1k` `开源；模型另付` `更新: 未在原文记录`
-
-🏢 OpenAI · 编程 Agent 工作流核心入口
-
-**2.** **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** — 软件工程 Agent 平台
-`Stars: 75.0k` `开源；模型另付` `更新: 未在原文记录`
-
-🏢 All Hands AI · 软件工程 Agent 平台成熟度高
-
-**3.** **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** — 长任务超级 Agent
-`Stars: 69.7k` `MIT；模型另付` `更新: 2026-05-26`
-
-🏢 字节跳动 · 长任务、子代理、记忆、沙箱架构完整
-
-**4.** **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — 跨平台个人 AI 助理
+**1.** **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — 跨平台个人 AI 助理
 `Stars: 374.9k` `MIT；模型另付` `更新: 2026-05-26`
 
 🏢 OpenClaw · 个人数据自托管和多通道集成好
 
-**5.** **[microsoft/autogen](https://github.com/microsoft/autogen)** — Agent AI 编程框架
-`Stars: 58.4k` `开源；模型另付` `更新: 未在原文记录`
-
-🏢 微软 · 多 Agent 编排生态强
-
-**6.** **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** — 弹性 Agent 构建框架
-`Stars: 33.1k` `开源；模型另付` `更新: 未在原文记录`
-
-🏢 LangChain · 可控 Agent 流程编排强
-
-**7.** **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — 角色协作 Agent 框架
-`Stars: 52.3k` `开源；模型另付` `更新: 未在原文记录`
-
-🏢 crewAI · 角色协作上手快；复杂任务需验证
-
-**8.** **[nousresearch/hermes-agent](https://github.com/nousresearch/hermes-agent)** — 自成长个人 Agent
-`Stars: 169.1k` `MIT；模型/API 另付` `更新: 2026-05-25`
-
-🏢 Nous Research · 技能学习和个人助理形态完整
-
-**9.** **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — Agent 性能优化系统
-`Stars: 194.8k` `MIT；模型另付` `更新: 2026-05-25`
-
-🏢 Affaan Mustafa · 覆盖技能、本能、记忆、安全的 Agent 性能优化
-
-**10.** **[obra/superpowers](https://github.com/obra/superpowers)** — Agent 技能方法论
+**2.** **[obra/superpowers](https://github.com/obra/superpowers)** — Agent 技能方法论
 `Stars: 208.3k` `MIT` `更新: 2026-05-04`
 
 🏢 Jesse Vincent · 跨 Claude、Codex、OpenCode 的流程资产
 
-**11.** **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — 工程技能集合
-`Stars: 46.2k` `MIT` `更新: 2026-05-24`
+**3.** **[affaan-m/ECC](https://github.com/affaan-m/ECC)** — Agent 性能优化系统
+`Stars: 194.8k` `MIT；模型另付` `更新: 2026-05-25`
 
-🏢 Addy Osmani (Google) · 工程质量门槛和流程成熟
+🏢 Affaan Mustafa · 覆盖技能、本能、记忆、安全的 Agent 性能优化
 
-**12.** **[anthropics/skills](https://github.com/anthropics/skills)** — Claude 官方技能集
+**4.** **[nousresearch/hermes-agent](https://github.com/nousresearch/hermes-agent)** — 自成长个人 Agent
+`Stars: 169.1k` `MIT；模型/API 另付` `更新: 2026-05-25`
+
+🏢 Nous Research · 技能学习和个人助理形态完整
+
+**5.** **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — Karpathy 编码准则
+`Stars: 157.5k` `未声明许可证` `更新: 2026-04-20`
+
+🏢 multica-ai · 单文件易复制；授权需谨慎
+
+**6.** **[anthropics/skills](https://github.com/anthropics/skills)** — Claude 官方技能集
 `Stars: 141.4k` `未声明许可证` `更新: 2026-05-19`
 
 🏢 Anthropic · 标准参考价值高；商用复用需谨慎
 
-**13.** **[MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)** — MiniMax 技能集合
-`Stars: 12.1k` `有 LICENSE` `更新: 2026-04-18`
+**7.** **[anthropics/claude-code](https://github.com/anthropics/claude-code)** — Claude Code 终端 AI 工具
+`Stars: 127.4k` `未声明` `更新: 2026-05-29`
 
-🏢 MiniMax · 国产模型技能参考
+🏢 Anthropic · Anthropic 官方终端编程 Agent；功能全面
 
-**14.** **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — Vercel 技能集合
-`Stars: 20.2k` `免费；需核实` `更新: 2026-05-23`
+**8.** **[mattpocock/skills](https://github.com/mattpocock/skills)** — 工程师常用技能
+`Stars: 107.2k` `MIT` `更新: 2026-05-20`
 
-🏢 Vercel · 技能发现和模板参考
+🏢 Matt Pocock · TypeScript 工程经验强
 
-**15.** **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** — Agent 自进化开放平台
-`Stars: 6.4k` `MIT；API 另付` `更新: 2026-05-21`
+**9.** **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — AI 专家角色库
+`Stars: 105.4k` `MIT` `更新: 2026-04-11`
 
-🏢 港大数据智能实验室 · 让 Agent 更智能、低成本、自进化的开放平台
+🏢 Michael Sitarzewski · 角色覆盖广；不是可运行框架
 
-**16.** **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — 软件 Agent 化 CLI 框架
-`Stars: 40.7k` `Apache-2.0` `更新: 2026-05-23`
+**10.** **[garrytan/gstack](https://github.com/garrytan/gstack)** — YC CEO 的 Claude Code 配置
+`Stars: 104.1k` `MIT` `更新: 2026-05-29`
 
-🏢 港大数据智能实验室 · 让所有软件变为 Agent 可操作的 CLI
+🏢 Garry Tan (YC CEO) · 23 个工具模拟 CEO/设计/工程/QA 等角色
+
+**11.** **[openai/codex](https://github.com/openai/codex)** — 终端编程 Agent
+`Stars: 86.1k` `开源；模型另付` `更新: 未在原文记录`
+
+🏢 OpenAI · 编程 Agent 工作流核心入口
+
+**12.** **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** — 单 GPU 自动化模型训练研究
+`Stars: 83.6k` `未声明许可证；算力另付` `更新: 2026-03-25`
+
+🏢 Andrej Karpathy · 单 GPU nanochat 自动训练实验；授权和稳定性不足
+
+**13.** **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)** — 跨平台 AI 助手桌面端
+`Stars: 82.0k` `MIT` `更新: 2026-05-26`
+
+🏢 Jason Young · Claude Code/Codex/Gemini CLI 等多工具统一桌面助手
+
+**14.** **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** — 软件工程 Agent 平台
+`Stars: 75.0k` `开源；模型另付` `更新: 未在原文记录`
+
+🏢 All Hands AI · 软件工程 Agent 平台成熟度高
+
+**15.** **[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** — 提示词工程指南
+`Stars: 75.0k` `MIT` `更新: 2026-03-11`
+
+🏢 DAIR.AI · 提示词/上下文工程/RAG/Agent 综合指南
+
+**16.** **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** — 长任务超级 Agent
+`Stars: 69.7k` `MIT；模型另付` `更新: 2026-05-26`
+
+🏢 字节跳动 · 长任务、子代理、记忆、沙箱架构完整
 
 **17.** **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** — 开源 Agent 管理应用
 `Stars: 67.8k` `MIT；模型另付` `更新: 2026-05-25`
 
 🏢 Paperclip · 团队 Agent 管理与协作应用
 
-**18.** **[thunlp/ProactiveAgent](https://github.com/thunlp/ProactiveAgent)** — 主动事件 Agent
-`Stars: 604` `Apache-2.0；API 另付` `更新: 2026-05-12`
+**18.** **[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** — 全能 Agent Harness
+`Stars: 59.7k` `Sustainable Use License` `更新: 2026-05-26`
 
-🏢 清华 NLP · 主动 Agent 学术参考
+🏢 YeonGyu Kim · 面向多 Harness；许可证限制更强
 
-**19.** **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** — Claude 配置模板 CLI
-`Stars: 27.6k` `MIT；云服务另付` `更新: 2026-05-26`
+**19.** **[microsoft/autogen](https://github.com/microsoft/autogen)** — Agent AI 编程框架
+`Stars: 58.4k` `开源；模型另付` `更新: 未在原文记录`
 
-🏢 Daniel Avila · 模板和监控一体；SaaS 依赖多
+🏢 微软 · 多 Agent 编排生态强
 
-**20.** **[hesamsheikh/octogent](https://github.com/hesamsheikh/octogent)** — 多代理编程看板
-`Stars: 1.1k` `MIT；模型另付` `更新: 2026-04-20`
+**20.** **[earendil-works/pi](https://github.com/earendil-works/pi)** — AI Agent 工具包
+`Stars: 57.1k` `MIT` `更新: 2026-05-28`
 
-🏢 Hesam Sheikh · 多 Claude/Codex 会话管理
+🏢 Earendil Works · 编程 Agent CLI + 统一 LLM API + TUI/Web UI
 
 **21.** **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** — Claude 多 Agent 编排平台
 `Stars: 55.5k` `MIT` `更新: 2026-05-26`
 
 🏢 rUv · 多 Agent 集群编排、自学习、RAG 集成
 
-**22.** **[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** — 全能 Agent Harness
-`Stars: 59.7k` `Sustainable Use License` `更新: 2026-05-26`
+**22.** **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** — 角色协作 Agent 框架
+`Stars: 52.3k` `开源；模型另付` `更新: 未在原文记录`
 
-🏢 YeonGyu Kim · 面向多 Harness；许可证限制更强
+🏢 crewAI · 角色协作上手快；复杂任务需验证
 
-**23.** **[EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** — 复合工程插件
-`Stars: 17.3k` `MIT` `更新: 2026-05-24`
+**23.** **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** — 工程技能集合
+`Stars: 46.2k` `MIT` `更新: 2026-05-24`
 
-🏢 Every · 工程流程插件化
+🏢 Addy Osmani (Google) · 工程质量门槛和流程成熟
 
-**24.** **[farion1231/cc-switch](https://github.com/farion1231/cc-switch)** — 跨平台 AI 助手桌面端
-`Stars: 82.0k` `MIT` `更新: 2026-05-26`
+**24.** **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — 软件 Agent 化 CLI 框架
+`Stars: 40.7k` `Apache-2.0` `更新: 2026-05-23`
 
-🏢 Jason Young · Claude Code/Codex/Gemini CLI 等多工具统一桌面助手
+🏢 港大数据智能实验室 · 让所有软件变为 Agent 可操作的 CLI
 
 **25.** **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** — Obsidian Agent 技能
 `Stars: 33.2k` `MIT` `更新: 2026-05-24`
 
 🏢 Steph Ango (Obsidian CEO) · 知识库自动化好
 
-**26.** **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)** — 科研 Agent 技能
-`Stars: 26.1k` `MIT；抓取服务可能另付` `更新: 2026-05-25`
+**26.** **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** — 弹性 Agent 构建框架
+`Stars: 33.1k` `开源；模型另付` `更新: 未在原文记录`
 
-🏢 K-Dense · 科研场景专业
+🏢 LangChain · 可控 Agent 流程编排强
 
-**27.** **[mattpocock/skills](https://github.com/mattpocock/skills)** — 工程师常用技能
-`Stars: 107.2k` `MIT` `更新: 2026-05-20`
+**27.** **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** — 代码知识图谱
+`Stars: 32.1k` `MIT` `更新: 2026-05-29`
 
-🏢 Matt Pocock · TypeScript 工程经验强
+🏢 Colby McHenry · 预索引代码图谱减少 token 消耗；100% 本地
 
-**28.** **[ant-design/antd-skill](https://github.com/ant-design/antd-skill)** — Ant Design 技能
-`Stars: 84` `MIT` `更新: 2026-03-27`
-
-🏢 蚂蚁集团 · 前端设计规范技能
-
-**29.** **[antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills)** — 图表可视化技能
-`Stars: 299` `MIT` `更新: 2026-05-25`
-
-🏢 蚂蚁 AntV · 数据可视化 Agent 技能
-
-**30.** **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** — 营销 Agent 技能
+**28.** **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** — 营销 Agent 技能
 `Stars: 30.7k` `MIT` `更新: 2026-05-21`
 
 🏢 Corey Haines · 垂直营销流程清晰
 
-**31.** **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** — 开源个人 AI 超级智能
+**29.** **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** — 开源个人 AI 超级智能
 `Stars: 28.5k` `GPL-3.0` `更新: 2026-05-26`
 
 🏢 Tiny Humans · 私有、简洁、强大的个人 AI；GPL 约束
 
-**32.** **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)** — 单 GPU 自动化模型训练研究
-`Stars: 83.6k` `未声明许可证；算力另付` `更新: 2026-03-25`
+**30.** **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** — Claude 配置模板 CLI
+`Stars: 27.6k` `MIT；云服务另付` `更新: 2026-05-26`
 
-🏢 Andrej Karpathy · 单 GPU nanochat 自动训练实验；授权和稳定性不足
+🏢 Daniel Avila · 模板和监控一体；SaaS 依赖多
 
-**33.** **[AndyMik90/Aperant](https://github.com/AndyMik90/Aperant)** — 多代理编码框架
-`Stars: 14.3k` `AGPL-3.0` `更新: 2026-03-23`
+**31.** **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)** — 科研 Agent 技能
+`Stars: 26.1k` `MIT；抓取服务可能另付` `更新: 2026-05-25`
 
-🏢 André Mikalsen · 计划-构建-验证闭环；AGPL 约束
+🏢 K-Dense · 科研场景专业
 
-**34.** **[iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage)** — Skills 桌面管理器
-`Stars: 1.9k` `Apache-2.0` `更新: 2026-05-02`
+**32.** **[vercel-labs/skills](https://github.com/vercel-labs/skills)** — Vercel 技能集合
+`Stars: 20.2k` `免费；需核实` `更新: 2026-05-23`
 
-🏢 iamzhihuix · 技能管理层；不是执行框架
+🏢 Vercel · 技能发现和模板参考
 
-**35.** **[nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** — 本地模型跑 Claude
-`Stars: 2.7k` `MIT` `更新: 2026-05-22`
-
-🏢 Nice Dreamz · 本地隐私方向；依赖硬件/模型
-
-**36.** **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** — Karpathy 编码准则
-`Stars: 157.5k` `未声明许可证` `更新: 2026-04-20`
-
-🏢 multica-ai · 单文件易复制；授权需谨慎
-
-**37.** **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** — Claude 游戏开发工作室
+**33.** **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** — Claude 游戏开发工作室
 `Stars: 20.1k` `MIT` `更新: 2026-05-13`
 
 🏢 Donchitos · 游戏开发流程模板
 
-**38.** **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** — AI 专家角色库
-`Stars: 105.4k` `MIT` `更新: 2026-04-11`
+**34.** **[EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** — 复合工程插件
+`Stars: 17.3k` `MIT` `更新: 2026-05-24`
 
-🏢 Michael Sitarzewski · 角色覆盖广；不是可运行框架
+🏢 Every · 工程流程插件化
 
-**39.** **[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)** — 中文专家角色库
+**35.** **[AndyMik90/Aperant](https://github.com/AndyMik90/Aperant)** — 多代理编码框架
+`Stars: 14.3k` `AGPL-3.0` `更新: 2026-03-23`
+
+🏢 André Mikalsen · 计划-构建-验证闭环；AGPL 约束
+
+**36.** **[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)** — 中文专家角色库
 `Stars: 13.0k` `MIT` `更新: 2026-05-19`
 
 🏢 AI不止语 · 中文本地化好；依赖上游内容
 
+**37.** **[MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)** — MiniMax 技能集合
+`Stars: 12.1k` `有 LICENSE` `更新: 2026-04-18`
+
+🏢 MiniMax · 国产模型技能参考
+
+**38.** **[HKUDS/ClawWork](https://github.com/HKUDS/ClawWork)** — OpenClaw AI 同事
+`Stars: 8.2k` `MIT` `更新: 2026-03-03`
+
+🏢 港大数据智能实验室 · AI 同事协作；11 小时赚 $15K 案例
+
+**39.** **[HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)** — Agent 自进化开放平台
+`Stars: 6.4k` `MIT；API 另付` `更新: 2026-05-21`
+
+🏢 港大数据智能实验室 · 让 Agent 更智能、低成本、自进化的开放平台
+
+**40.** **[nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local)** — 本地模型跑 Claude
+`Stars: 2.7k` `MIT` `更新: 2026-05-22`
+
+🏢 Nice Dreamz · 本地隐私方向；依赖硬件/模型
+
+**41.** **[iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage)** — Skills 桌面管理器
+`Stars: 1.9k` `Apache-2.0` `更新: 2026-05-02`
+
+🏢 iamzhihuix · 技能管理层；不是执行框架
+
+**42.** **[datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)** — AI Agent 学习路线
+`Stars: 1.9k` `MIT` `更新: 2026-05-25`
+
+🏢 Datawhale · Agent 学习路线与资料库；教育性资源
+
+**43.** **[OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)** — Agent 生产力平台
+`Stars: 1.6k` `AGPL-3.0` `更新: 2026-05-29`
+
+🏢 清华/面壁智能 · 面向任务的 Agent 生产力平台；AGPL 约束
+
+**44.** **[hesamsheikh/octogent](https://github.com/hesamsheikh/octogent)** — 多代理编程看板
+`Stars: 1.1k` `MIT；模型另付` `更新: 2026-04-20`
+
+🏢 Hesam Sheikh · 多 Claude/Codex 会话管理
+
+**45.** **[clacky-ai/openclacky](https://github.com/clacky-ai/openclacky)** — 高效 Token 开源 Agent
+`Stars: 878` `MIT` `更新: 2026-05-29`
+
+🏢 ClackyAI · 最省 Token 的开源 AI Agent；规模较小
+
+**46.** **[thunlp/ProactiveAgent](https://github.com/thunlp/ProactiveAgent)** — 主动事件 Agent
+`Stars: 604` `Apache-2.0；API 另付` `更新: 2026-05-12`
+
+🏢 清华 NLP · 主动 Agent 学术参考
+
+**47.** **[binggandata/bggg-skills](https://github.com/binggandata/bggg-skills)** — 饕餮 Skill 自进化
+`Stars: 346` `MIT` `更新: 2026-05-05`
+
+🏢 binggandata · 让 Skill 自己进化的元技能；规模较小
+
+**48.** **[antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills)** — 图表可视化技能
+`Stars: 299` `MIT` `更新: 2026-05-25`
+
+🏢 蚂蚁 AntV · 数据可视化 Agent 技能
+
+**49.** **[ant-design/antd-skill](https://github.com/ant-design/antd-skill)** — Ant Design 技能
+`Stars: 84` `MIT` `更新: 2026-03-27`
+
+🏢 蚂蚁集团 · 前端设计规范技能
 
 ## 八、浏览器 / 桌面自动化 / 工具底座
 
-**1.** **[simular-ai/agent-s](https://github.com/simular-ai/agent-s)** — 像人一样操作电脑的 Agent
-`Stars: 11.6k` `Apache-2.0；API 另付` `更新: 2026-05-13`
-
-🏢 Simular AI · 桌面 CUA 首选验证项
-
-**2.** **[TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA)** — 桌面动作模型
-`Stars: 3.0k` `MIT` `更新: 2026-05-25`
-
-🏢 TuriX AI · 桌面动作执行明确
-
-**3.** **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** — 自修复浏览器 Agent Harness
-`Stars: 13.8k` `MIT` `更新: 2026-05-20`
-
-🏢 Browser Use · 自修复机制让 LLM 完成复杂浏览器任务
-
-**4.** **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** — AI Agent 浏览器自动化 CLI
-`Stars: 34.4k` `Apache-2.0` `更新: 2026-05-20`
-
-🏢 Vercel · 快速浏览器自动化
-
-**5.** **[openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)** — macOS 截屏与视觉问答工具
-`Stars: 4.5k` `MIT` `更新: 2026-05-25`
-
-🏢 OpenClaw · macOS 截屏 + 可选 VQA 的 MCP 服务
-
-**6.** **[microsoft/playwright](https://github.com/microsoft/playwright)** — 浏览器自动化基础库
-`Stars: 89.6k` `Apache-2.0` `更新: 未在原文记录`
-
-🏢 微软 · Web 自动化标准工具
-
-**7.** **[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)** — Chrome/Firefox 自动化库
-`Stars: 94.4k` `Apache-2.0` `更新: 未在原文记录`
-
-🏢 Google · Chrome 自动化成熟
-
-**8.** **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)** — WebDriver 生态
-`Stars: 34.1k` `Apache-2.0` `更新: 未在原文记录`
-
-🏢 Selenium · 企业兼容性强
-
-**9.** **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — MCP 工具服务器集合
-`Stars: 86.3k` `开源；需核实` `更新: 未在原文记录`
-
-🏢 Anthropic MCP · Agent 工具扩展入口
-
-**10.** **[public-apis/public-apis](https://github.com/public-apis/public-apis)** — 免费 API 目录
+**1.** **[public-apis/public-apis](https://github.com/public-apis/public-apis)** — 免费 API 目录
 `Stars: 437.3k` `MIT` `更新: 2026-05-26`
 
 🏢 public-apis · 可给 Agent 扩工具源
 
-**11.** **[googleworkspace/cli](https://github.com/googleworkspace/cli)** — Google Workspace CLI
-`Stars: 26.6k` `Apache-2.0；Google API 账号` `更新: 2026-03-31`
+**2.** **[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)** — Chrome/Firefox 自动化库
+`Stars: 94.4k` `Apache-2.0` `更新: 未在原文记录`
 
-🏢 Google · 办公套件可被 Agent 调用
+🏢 Google · Chrome 自动化成熟
 
-**12.** **[Tencent/openclaw-weixin](https://github.com/Tencent/openclaw-weixin)** — OpenClaw 微信插件
-`Stars: 526` `MIT 文本` `更新: 2026-05-18`
+**3.** **[microsoft/playwright](https://github.com/microsoft/playwright)** — 浏览器自动化基础库
+`Stars: 89.6k` `Apache-2.0` `更新: 未在原文记录`
 
-🏢 腾讯 · 微信通道价值高；登录和合规约束
+🏢 微软 · Web 自动化标准工具
 
-**13.** **[clawvader-tech/hermes-telegram-miniapp](https://github.com/clawvader-tech/hermes-telegram-miniapp)** — Telegram Mini App 前端
-`Stars: 226` `MIT` `更新: 2026-04-15`
+**4.** **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** — MCP 工具服务器集合
+`Stars: 86.3k` `开源；需核实` `更新: 未在原文记录`
 
-🏢 clawvader · Telegram Mini App v2.0 的 10 页移动端 UI；需配后端
+🏢 Anthropic MCP · Agent 工具扩展入口
 
-**14.** **[antirez/ds4](https://github.com/antirez/ds4)** — DeepSeek 4 本地推理引擎
-`Stars: 12.0k` `MIT` `更新: 2026-05-26`
+**5.** **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** — AI Agent 浏览器自动化 CLI
+`Stars: 34.4k` `Apache-2.0` `更新: 2026-05-20`
 
-🏢 antirez (Redis 作者) · DeepSeek 4 Flash 的 Metal/CUDA 本地推理
+🏢 Vercel · 快速浏览器自动化
 
-**15.** **[Mininglamp-AI/cider](https://github.com/Mininglamp-AI/cider)** — Apple Silicon INT8 推理加速
-`Stars: 308` `MIT` `更新: 2026-05-11`
+**6.** **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)** — WebDriver 生态
+`Stars: 34.1k` `Apache-2.0` `更新: 未在原文记录`
 
-🏢 明略科技 · M5 芯片 INT8 TensorOps 加速 LLM 推理 1.2-1.9 倍
+🏢 Selenium · 企业兼容性强
 
-**16.** **[AndrewNgGirl/SkillLens](https://github.com/AndrewNgGirl/SkillLens)** — Agent Skill 评估打分工具
-`Stars: 59` `MIT` `更新: 2026-05-17`
-
-🏢 AndrewNg 小迷妹 · 适合筛选技能库；成熟度需验证
-
-**17.** **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** — 书籍蒸馏为 Agent 技能
-`Stars: 979` `MIT` `更新: 2026-05-04`
-
-🏢 kangarooking · 内容型技能可复用；非工程框架
-
-**18.** **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — AI 自动化在线赚钱工具
+**7.** **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** — AI 自动化在线赚钱工具
 `Stars: 30.6k` `AGPL-3.0；平台/API 可能另付` `更新: 2026-05-15`
 
 🏢 FujiwaraChoki · 自动化在线赚钱流程；AGPL 与平台风控风险
 
+**8.** **[googleworkspace/cli](https://github.com/googleworkspace/cli)** — Google Workspace CLI
+`Stars: 26.6k` `Apache-2.0；Google API 账号` `更新: 2026-03-31`
+
+🏢 Google · 办公套件可被 Agent 调用
+
+**9.** **[trycua/cua](https://github.com/trycua/cua)** — 桌面自动化开源基础设施
+`Stars: 17.3k` `MIT` `更新: 2026-05-28`
+
+🏢 Cua · macOS/Linux/Windows 沙箱 + SDK + 基准测试
+
+**10.** **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** — 自修复浏览器 Agent Harness
+`Stars: 13.8k` `MIT` `更新: 2026-05-20`
+
+🏢 Browser Use · 自修复机制让 LLM 完成复杂浏览器任务
+
+**11.** **[antirez/ds4](https://github.com/antirez/ds4)** — DeepSeek 4 本地推理引擎
+`Stars: 12.0k` `MIT` `更新: 2026-05-26`
+
+🏢 antirez (Redis 作者) · DeepSeek 4 Flash 的 Metal/CUDA 本地推理
+
+**12.** **[simular-ai/agent-s](https://github.com/simular-ai/agent-s)** — 像人一样操作电脑的 Agent
+`Stars: 11.6k` `Apache-2.0；API 另付` `更新: 2026-05-13`
+
+🏢 Simular AI · 桌面 CUA 首选验证项
+
+**13.** **[sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline)** — Claude Code 状态栏美化
+`Stars: 9.9k` `MIT` `更新: 2026-05-25`
+
+🏢 Matthew Breedlove · 高度可定制的 Claude Code CLI 状态栏
+
+**14.** **[openclaw/Peekaboo](https://github.com/openclaw/Peekaboo)** — macOS 截屏与视觉问答工具
+`Stars: 4.5k` `MIT` `更新: 2026-05-25`
+
+🏢 OpenClaw · macOS 截屏 + 可选 VQA 的 MCP 服务
+
+**15.** **[Tencent/TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory)** — Agent 长期记忆系统
+`Stars: 4.4k` `NOASSERTION` `更新: 2026-05-28`
+
+🏢 腾讯 · 4 层渐进式本地长期记忆；零外部 API 依赖
+
+**16.** **[TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA)** — 桌面动作模型
+`Stars: 3.0k` `MIT` `更新: 2026-05-25`
+
+🏢 TuriX AI · 桌面动作执行明确
+
+**17.** **[jackwener/wx-cli](https://github.com/jackwener/wx-cli)** — 微信本地数据 CLI
+`Stars: 3.0k` `Apache-2.0` `更新: 2026-05-19`
+
+🏢 jakevin · 微信本地数据 CLI + 守护进程架构
+
+**18.** **[huohuoer/wechat-cli](https://github.com/huohuoer/wechat-cli)** — 微信数据查询 CLI
+`Stars: 1.2k` `Apache-2.0` `更新: 2026-04-06`
+
+🏢 huohuoer · 查询本地微信聊天/联系人/收藏数据；适配 LLM
+
+**19.** **[kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill)** — 书籍蒸馏为 Agent 技能
+`Stars: 979` `MIT` `更新: 2026-05-04`
+
+🏢 kangarooking · 内容型技能可复用；非工程框架
+
+**20.** **[zarazhangrui/feishu-claude-code-bridge](https://github.com/zarazhangrui/feishu-claude-code-bridge)** — 飞书接入 Claude Code
+`Stars: 715` `MIT` `更新: 2026-05-29`
+
+🏢 Zara Zhang · 飞书消息桥接本地 Claude Code CLI
+
+**21.** **[Tencent/openclaw-weixin](https://github.com/Tencent/openclaw-weixin)** — OpenClaw 微信插件
+`Stars: 526` `MIT 文本` `更新: 2026-05-18`
+
+🏢 腾讯 · 微信通道价值高；登录和合规约束
+
+**22.** **[Mininglamp-AI/cider](https://github.com/Mininglamp-AI/cider)** — Apple Silicon INT8 推理加速
+`Stars: 308` `MIT` `更新: 2026-05-11`
+
+🏢 明略科技 · M5 芯片 INT8 TensorOps 加速 LLM 推理 1.2-1.9 倍
+
+**23.** **[clawvader-tech/hermes-telegram-miniapp](https://github.com/clawvader-tech/hermes-telegram-miniapp)** — Telegram Mini App 前端
+`Stars: 226` `MIT` `更新: 2026-04-15`
+
+🏢 clawvader · Telegram Mini App v2.0 的 10 页移动端 UI；需配后端
+
+**24.** **[AndrewNgGirl/SkillLens](https://github.com/AndrewNgGirl/SkillLens)** — Agent Skill 评估打分工具
+`Stars: 59` `MIT` `更新: 2026-05-17`
+
+🏢 AndrewNg 小迷妹 · 适合筛选技能库；成熟度需验证
 
 ## 九、官网 / 产品页 / 非单仓库入口
 
